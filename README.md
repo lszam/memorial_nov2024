@@ -3,3 +3,5 @@
 
 ## Luizemara Soares Alves Szameitat
 _________________________
+
+Podcasts criados com a IA do NotebookLM Google (https://notebooklm.google.com/)
